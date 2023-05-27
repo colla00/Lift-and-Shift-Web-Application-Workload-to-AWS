@@ -1,6 +1,6 @@
 # Lift and Shift Web Application Workload to the Cloud. Amazon Web Service (AWS)
 ## DevOps Project-3
-#### Project Source: [DevOps Project](https://www.udemy.com/course/devopsprojects/learn/lecture/23885400#overview) by Alexis Collier
+#### Project Source: [DevOps Project](https://www.udemy.com/course/devopsprojects/learn/lecture/23885400#overview) by Imran Teli
 
 In this Project, We will be using the LIFT AND SHIFT strategy  for our web application setup. 
 Lift And Shift is a strategy involves the migration of an application or a code base from a local setup(such as  data center or VMs) to a cloud environment,in this case AWS . I will be migrating a java based  application that was setup in my previous. Link to the project 1
