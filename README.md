@@ -3,7 +3,7 @@
 #### Project Source: [DevOps Project](https://www.udemy.com/course/devopsprojects/learn/lecture/23885400#overview) by Imran Teli
 
 In this Project, We will be using the LIFT AND SHIFT strategy  for our web application setup. 
-Lift And Shift is a strategy involves the migration of an application or a code base from a local setup(such as  data center or VMs) to a cloud environment,in this case AWS . I will be migrating a java based  application that was setup in my previous. Link to the project 1
+Lift And Shift is a strategy involves the migration of an application or a code base from a local setup (such as  data center or VMs) to a cloud environment,in this case AWS . I will be migrating a java based  application that was setup in my previous. Link to the project 1
 This Project Aims to solve cost and scalability challenges building running your application locally (Data center). 
 
 # AWS Services Used:
@@ -31,12 +31,12 @@ picture credit: rumeysakdogan
 # Flow of Execution
 1. Log into your AWS account
 2. Create security groups for the backend services
-3. Create Key pairs to login into server
-4. Lunch EC2 instance with user data (BASH SCRIPTS)
-5. Update IP to name mapping in route 53
-6. Build Our Application from source code
-7. Upload our Application to S3 bucket
+3. Create key pairs to login into server
+4. Lunch EC2 instance with user data (BASH scripts)
+5. Update IP to name mapping in Route 53
+6. Build our application from source code
+7. Upload our application to S3 Bucket
 8. Download artifact to Tomcat EC2 Instance
-9. Setup ELB with HTTPS [certificate from (ACM)Amazon certificate manager
-10. Map ELB Endpoint to website name in Amazon route 53 and Verify
-11. Configure Auto Scaling Group for the Application Instance and Verify
+9. Setup ELB with HTTPS certificate from (ACM) Amazon Certificate Manager
+10. Map ELB Endpoint to website name in Amazon Route 53 and verify
+11. Configure Auto Scaling Group for the application instance and verify
