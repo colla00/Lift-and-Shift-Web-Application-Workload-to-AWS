@@ -6,7 +6,7 @@ In this Project, We will be using the LIFT AND SHIFT strategy  for our web appli
 Lift And Shift is a strategy involves the migration of an application or a code base from a local setup(such as  data center or VMs) to a cloud environment,in this case AWS . I will be migrating a java based  application that was setup in my previous. Link to the project 1
 This Project Aims to solve cost and scalability challenges building running your application locally (Data center). 
 
-# AWS SERVICES USED
+# AWS Services Used:
 
 - Elastic Compute Cloud (EC2) 
 - Elastic Load Balancer (ELB)
@@ -17,7 +17,7 @@ This Project Aims to solve cost and scalability challenges building running your
 - Security Group
 - EFS
 
-### Other Tools Used are
+### Other Tools Used:
 - DNS resolution
 - jdk8
 - maven
