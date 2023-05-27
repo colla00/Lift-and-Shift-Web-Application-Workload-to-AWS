@@ -34,5 +34,5 @@ The Lift And Shift strategy involves migrating an application or a code base fro
 7. Upload our application to S3 Bucket
 8. Download the artifact to Tomcat EC2 Instance
 9. Setup ELB with HTTPS certificate from (ACM) Amazon Certificate Manager
-10. Map ELB Endpoint to the website name in Amazon Route 53 
+10. Map ELB endpoint to the website name in Amazon Route 53 
 11. Configure Auto Scaling Group for the application instance
