@@ -2,7 +2,7 @@
 ## DevOps Project-3
 #### Project Source: [DevOps Project](https://www.udemy.com/course/devopsprojects/learn/lecture/23885400#overview) by Imran Teli
 
-This project will use the LIFT AND SHIFT strategy to set up the web application. The Lift And Shift strategy involves migrating an application or a code base from a local setup (such as a data center or VMs) to a cloud environment, in this case, AWS. This project aims to solve cost and scalability challenges by building and running the application locally (data center). 
+The Lift And Shift strategy involves migrating an application or a code base from a local setup (such as a data center or VMs) to a cloud environment, in this case, AWS. This project aims to solve cost and scalability challenges by building and running the application locally (data center). 
 
 # AWS Services Used:
 
