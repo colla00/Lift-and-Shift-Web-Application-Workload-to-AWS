@@ -2,13 +2,11 @@
 ## DevOps Project-3
 #### Project Source: [DevOps Project](https://www.udemy.com/course/devopsprojects/learn/lecture/23885400#overview) by Imran Teli
 
-In this Project, We will be using the LIFT AND SHIFT strategy  for our web application setup. 
-Lift And Shift is a strategy involves the migration of an application or a code base from a local setup (such as  data center or VMs) to a cloud environment,in this case AWS . I will be migrating a java based  application that was setup in my previous. Link to the project 1
-This Project Aims to solve cost and scalability challenges building running your application locally (Data center). 
+This project will use the LIFT AND SHIFT strategy to set up the web application. The Lift And Shift strategy involves migrating an application or a code base from a local setup (such as a data center or VMs) to a cloud environment, in this case, AWS. This project aims to solve cost and scalability challenges by building and running the application locally (data center). 
 
 # AWS Services Used:
 
-- Elastic Compute Cloud (EC2) 
+- Elastic Compute Cloud (EC2)  
 - Elastic Load Balancer (ELB)
 - Auto-scaling
 - S3 bucket
@@ -31,12 +29,12 @@ picture credit: rumeysakdogan
 # Flow of Execution
 1. Log into your AWS account
 2. Create security groups for the backend services
-3. Create key pairs to login into server
+3. Create key pairs to login into the server
 4. Lunch EC2 instance with user data (BASH scripts)
 5. Update IP to name mapping in Route 53
 6. Build our application from source code
 7. Upload our application to S3 Bucket
-8. Download artifact to Tomcat EC2 Instance
+8. Download the artifact to Tomcat EC2 Instance
 9. Setup ELB with HTTPS certificate from (ACM) Amazon Certificate Manager
-10. Map ELB Endpoint to website name in Amazon Route 53 and verify
+10. Map ELB Endpoint to the website name in Amazon Route 53 and verify
 11. Configure Auto Scaling Group for the application instance and verify
