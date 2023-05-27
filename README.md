@@ -1,4 +1,4 @@
-# Lift and Shift Web Application Workload to the Cloud. Amazon Web Service (AWS)
+# Lift and Shift Web Application Workload to Amazon Web Services
 ## DevOps Project-3
 #### Project Source: [DevOps Project](https://www.udemy.com/course/devopsprojects/learn/lecture/23885400#overview) by Imran Teli
 
