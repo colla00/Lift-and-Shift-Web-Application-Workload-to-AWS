@@ -24,8 +24,6 @@ The Lift And Shift strategy involves migrating an application or a code base fro
 
 ![](https://github.com/Adutoby/DevOps-Projects-AWS/blob/master/Project-3:%20Lift%20And%20Shift%20Web%20Application%20to%20AWS/images/project%20architecturenew.png)
 
-picture credit: rumeysakdogan
-
 # Flow of Execution
 1. Log into your AWS account
 2. Create security groups for the backend services
